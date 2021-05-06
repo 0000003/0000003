@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @owsm
+- 👋 Hi
 - 👀 I am a beginner programmer 
